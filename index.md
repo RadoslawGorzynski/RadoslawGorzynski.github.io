@@ -1,3 +1,14 @@
+---
+layout: default
+title: Strona główna
+---
+
 # Prace matematyczne
 
-To jest moja strona na GitHub Pages.
+Witaj!  
+Na tej stronie publikuję moje dowody i notatki matematyczne.
+
+## Zakładki
+- [Dowody](dowody.md)
+- [Notatki](notatki.md)
+- [O mnie](o-mnie.md)
